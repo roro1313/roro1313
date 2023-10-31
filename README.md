@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roro1313
 - 👀 I’m interested in web & app development!
-- 🌱 I’m currently learning Docker and Java
+- 🌱 I’m currently learning Docker and Typescript
 - 💞️ I’m looking to collaborate on open source projects
 - 🔹 Learnability as a way of life
 
